@@ -119,7 +119,7 @@ class Calculator
                 <th scope="col">Kwota</th>
                 <th scope="col">Waluta źródłowa</th>
                 <th scope="col">Kurs waluty źródłowej</th>
-                <th scope="col">Waluta docelowa:</th>
+                <th scope="col">Waluta docelowa</th>
                 <th scope="col">Kurs waluty docelowej</th>
                 <th scope="col">Kwota po przeliczeniu</th>
             </tr>
